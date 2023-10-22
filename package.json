@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cli-table": "^0.3.11"
+  },
+  "name": "itransition_task_3",
+  "version": "1.0.0",
+  "main": "task-3.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
