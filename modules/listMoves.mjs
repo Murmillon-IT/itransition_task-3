@@ -1,5 +1,6 @@
 'use strict'
 
+// Generating a list of moves available to the player
 const listMoves = (array, hmac) => {
     console.log('HMAC: ' + hmac)
     console.log('Available moves:')

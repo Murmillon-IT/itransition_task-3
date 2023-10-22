@@ -1,7 +1,7 @@
 'use strict'
 
 //Search for duplicates
-function findDuplicateElements(array) {
+const findDuplicateElements = array => {
     const uniqueElements = new Set();
     const duplicates = new Set();
 
